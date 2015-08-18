@@ -6,7 +6,7 @@ rm(list = ls())
 ## functions do
 
 ## Write a short comment describing this function
->>>>>>> origin/fredzhou91_Coursera
+
 
 
 ## FUNCTION PART
@@ -54,7 +54,7 @@ cacheSolve <- function(Matrix, ...) {
     
     cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
-        >>>>>>> origin/fredzhou91_Coursera
+
     }
     
     
