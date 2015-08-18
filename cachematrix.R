@@ -49,14 +49,7 @@ cacheSolve <- function(Matrix, ...) {
         Cachefun$setInverse(currentInv)
         currentInv
     }
-    =======
-    ## Write a short comment describing this function
-    
-    cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
-
-    }
-    
+}
     
     
     
